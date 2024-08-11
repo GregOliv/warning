@@ -4,4 +4,4 @@
 
 # Warning!
 
-**WARNING: This repository contains zero-day malware discovered by myself. I am not responsible for any damage or loss that may occur as a result of using this malware. Use at your own risk.**
+**WARNING: This repository may contains zero-day malware discovered by myself. I am not responsible for any damage or loss that may occur as a result of using this malware. Use at your own risk.**
